@@ -1,21 +1,23 @@
 # Library Database Management System
 
-_The poject working link in not available, as the project runs in netbeans platform._
-
-_To run the project, download the code, kindly download netbeans of the specified version, install all the libraries, and run the java applet._
-
-_To see the database working of the program, you also need to create the tables as specified in the schema._
 ## Aim
 
-The main aim of designing this project is to get rid from manual entry and record system and try to give easy and simple database management system for Library.
+The main aim of designing this project is to get rid of manual entry and record system and try to give easy and simple database management system for Library.
 
 
 ## Objective
 
 The main objective of this DBMS mini project is to construct good quality and dynamic management system, in which this database is used to store the details of all the borrowed books.
 
+## Schema Diagram
 
-## description
+![Schema](https://github.com/sandeshtiwari16/library-database-management-system/blob/main/snapshots/schema.JPG)
+
+## ER Diagram
+
+![ER](https://github.com/sandeshtiwari16/library-database-management-system/blob/main/snapshots/er.JPG)
+
+## Description
 
 - This project provides a platform to store the details of publisher, book, library branches and members borrowing books.
 - And in dynamic way of accessing the data of issued books and returned books, maintaining in real time basis and upgrading the information of all books borrowed and returned.
@@ -32,3 +34,13 @@ The main objective of this DBMS mini project is to construct good quality and dy
 **Backend:** `MySQL 8.0`
 **Frontend:** `Apache NetBeans IDE 12.1`
 **Drivers:** `MySQL connector 8.0.22`
+
+## Snapshots
+
+1. Home Page ![home](https://github.com/sandeshtiwari16/library-database-management-system/blob/main/snapshots/home%20page.JPG)
+2. Login Page ![login](https://github.com/sandeshtiwari16/library-database-management-system/blob/main/snapshots/login%20page.JPG)
+3. New Card ![new](https://github.com/sandeshtiwari16/library-database-management-system/blob/main/snapshots/new%20card.JPG)
+4. Delete Card ![delete](https://github.com/sandeshtiwari16/library-database-management-system/blob/main/snapshots/delete%20card.JPG)
+5. List Cards ![list](https://github.com/sandeshtiwari16/library-database-management-system/blob/main/snapshots/list%20of%20card.JPG)
+6. Statistics ![stats](https://github.com/sandeshtiwari16/library-database-management-system/blob/main/snapshots/statistics.JPG)
+
